@@ -1,2 +1,1 @@
-# Hadoop---Tweets-counter
-Project for study purpose
+# Example hadoop project
